@@ -1,0 +1,16 @@
+{
+"companyName": "escavel",
+"productName": "<-use-case-name->",
+"productVersion": "0.1",
+"dataUrl": "coal-and-petroleum.data.unityweb",
+"wasmCodeUrl": "coal-and-petroleum.wasm",
+"wasmFrameworkUrl": "coal-and-petroleum.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
